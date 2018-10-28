@@ -81,3 +81,6 @@ Gli attributi del JSON sono:
 * label: l'etichetta testuale assegnata all'entità;
 	
 * sentiment: numero intero che va da -1 a 4. -1 indica che il sentiment non è stato calcolato, 0 indica un sentiment molto negativo, 1 indica un sentiment negativo, 2 indica un sentiment neutro, 3 indica un sentiment positivo e 4 indica un sentiment molto positivo.
+
+### Altre informazioni ###
+Presentazione Slideshare: https://www.slideshare.net/NicolaMacchiarulo/sentiment-extractor-web-service
